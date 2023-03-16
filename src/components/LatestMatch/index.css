@@ -1,0 +1,13 @@
+.match-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1e293b;
+  color: #ffffff;
+  margin-top: 20px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+.competing-logo {
+  width: 200px;
+}

@@ -1,0 +1,10 @@
+.team-details-container {
+  background-image: linear-gradient(to bottom, #d91c1f, #1e293b);
+  padding: 20px;
+}
+.banner {
+  width: 100%;
+}
+.items-container {
+  display: flex;
+}

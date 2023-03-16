@@ -1,0 +1,20 @@
+.item-container {
+  display: flex;
+  align-items: center;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  width: 30%;
+  margin: 10px;
+  padding-left: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.team-img {
+  width: 80px;
+}
+.team-name {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 16px;
+  margin-left: 20px;
+}
